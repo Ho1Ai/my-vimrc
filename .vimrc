@@ -7,3 +7,7 @@ set mouse=a
 inoremap <C-a> <C-n>
 set tabstop=4
 set shiftwidth=4
+colorscheme retrobox
+set cursorline
+set cursorlineopt=both
+set background=dark
